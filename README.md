@@ -11,7 +11,7 @@ listchk.ipynb is a jupyter notebook file, which lists the data (.csv files) and 
 The data without corresponding pair were removed.
 
 ## Dl_preliminary.ipnyb
-Dl_preliminary.ipnyb is a jupyter notebook file, which calculates PCA of the data. This is to reduce the number of features, since they are too big(58).
+Dl_preliminary.ipnyb is a jupyter notebook file, which calculates PCA of the data. This is to reduce the number of features, since they are too big(78).
 
 ## Future plans
 Have to decide which methods to use and how many PCA to keep. Since the data is a timeseries, RNN is being considered. Refering to other related to studies, CNN could also be used.
