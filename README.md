@@ -9,5 +9,9 @@ The original data is from A. Vajdi, M.R. Zaghian et al. "Human Gait Database for
 ## listchk.ipynb
 listchk.ipynb is a jupyter notebook file, which lists the data (.csv files) and pairs the data of the same session.
 The data without corresponding pair were removed.
+
 ## Dl_preliminary.ipnyb
-Dl_preliminary.ipnyb is a jupyter notebook file, which calculates PCA of the data. This is to reduce the number of features, since they are too big(39).
+Dl_preliminary.ipnyb is a jupyter notebook file, which calculates PCA of the data. This is to reduce the number of features, since they are too big(58).
+
+## Future plans
+Have to decide which methods to use and how many PCA to keep. Since the data is a timeseries, RNN is being considered. Refering to other related to studies, CNN could also be used.
