@@ -13,5 +13,8 @@ The data without corresponding pair were removed.
 ## Dl_preliminary.ipnyb
 Dl_preliminary.ipnyb is a jupyter notebook file, which calculates PCA of the data. This is to reduce the number of features, since they are too big(78).
 
+## Dl_midterm
+Dl_midterm.ipnyb is a jupyter notebook file, which calculates gaussian mixture of the data.
+
 ## Future plans
-Have to decide which methods to use and how many PCA to keep. Since the data is a timeseries, RNN is being considered. Refering to other related to studies, CNN could also be used.
+To analyze the characteristics of each gaussan groups, feature distributions will be investigated.
